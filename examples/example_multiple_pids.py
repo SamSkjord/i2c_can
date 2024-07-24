@@ -1,46 +1,3 @@
-# i2c_can
-
-Python library to communicate with the Longan Labs I2C CAN Bus Module
-
-Also sold as the SEEED STUDIO 113020111 I2C CAN-BUS Module
-
-## This library is nowhere near as safe, good, advanced, robust OR **SAFE** as https://github.com/commaai/panda so don't use it to drive a car.
-
-
-## Overview
-
-
-add text
-
-
-## Features
-
-- tbc
-
-## Installation
-
-Install the TPMS library using pip:
-
-```bash
-pip install i2c_can
-```
-## Usage
-
-[TL;DR](https://github.com/SamSkjord/TPMS/tree/main?tab=readme-ov-file#tldr)
-
-add text
-
-## Example Code
-
-### add examples
-
-
-# TLDR
-```bash
-pip install i2c_can
-```
-
-```python
 from i2c_can import I2C_CAN, CAN_500KBPS, CAN_OK, CAN_MSGAVAIL
 import time
 
@@ -101,12 +58,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-```
-
-## TODO
-
-Check it actually works...
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
