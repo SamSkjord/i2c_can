@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="i2c_can",
-    version="0.0.1",
-    description="Tire Pressure Monitoring System Python Library",
+    version="0.0.2",
+    description="Library for Longan Labs I2C CAN Bus Module",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Sam Conway",

@@ -1,2 +1,5 @@
 
 .DS_Store
+/build
+/dist
+/i2c_can.egg-info
